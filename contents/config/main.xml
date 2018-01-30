@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+    <group name="">
+        <entry name="miniXPos" type="int">
+            <label>The x position of the mini display</label>
+        </entry>
+        <entry name="miniYPos" type="int">
+            <label>The y position of the mini display</label>
+        </entry>
+        <entry name="miniHeight" type="int">
+            <label>The height of the mini display</label>
+        </entry>
+        <entry name="miniWidth" type="int">
+            <label>The width of the mini display</label>
+        </entry>
+        <entry name="returnPosX" type="int">
+            <label>The x position windows are returned to</label>
+        </entry>
+        <entry name="returnPosY" type="int">
+            <label>The y position windows are returned to</label>
+        </entry>
+    </group>
+</kcfg>

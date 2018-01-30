@@ -1,0 +1,19 @@
+[Desktop Entry]
+
+Name=Mini Display Manager
+Comment=Manage a mini display.
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+Icon=preferences-system-windows-script-test
+X-KDE-PluginInfo-Author=Yisroel Newmark
+X-KDE-PluginInfo-Email=ymnewmark@gmail.com
+X-KDE-PluginInfo-Name=minidisplaymanager
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script,KCModule
+Type=Service
+X-KDE-ParentComponents=minidisplaymanager
+X-KDE-PluginKeyword=minidisplaymanager
+X-KDE-Library=kwin/effects/configs/kcm_kwin4_genericscripted
